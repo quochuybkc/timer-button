@@ -21,7 +21,6 @@ void readButton2();
 void xuatled(unsigned int);
 
 extern boolean fbutton1, fbutton2, fbutton1pressed1s, fbutton1pressed3s, fbutton2pressed1s, fbutton2pressed3s;
-extern int firstRead1, secondRead1, firstRead2, secondRead2;
 extern unsigned int count1, count2, count3, count4, count5, count6, value;
 
 #endif
